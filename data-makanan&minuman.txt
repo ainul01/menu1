@@ -1,0 +1,1 @@
+{"makanan": [{"nama": "nasi goreng", "harga": 10000}, {"nama": "bakso", "harga": 7000}, {"nama": "sate", "harga": 8000}], "minuman": [{"nama": "cocacola", "harga": 10000}, {"nama": "fanta", "harga": 10000}, {"nama": "aqua", "harga": 1000}]}
